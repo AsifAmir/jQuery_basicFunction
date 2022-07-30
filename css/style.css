@@ -1,0 +1,24 @@
+/*fonts*/
+@font-face{
+	font-family: ;
+	src: url();
+}
+@font-face{
+	font-family: ;
+	src: url();
+}
+@font-face{
+	font-family: ;
+	src: url();
+}
+/*common*/
+body{
+}
+.q_Prop{
+	cursor: pointer;
+}
+.ans_Prop{
+	display: none;
+	padding: 50px;
+	font-size: 18px;
+}
